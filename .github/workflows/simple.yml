@@ -1,6 +1,6 @@
 name: Shell commands
 
-on: [push -p]
+on: [push]
 
 jobs:
   run-shell-command:
